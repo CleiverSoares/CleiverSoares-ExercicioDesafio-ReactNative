@@ -102,8 +102,8 @@ const styles = StyleSheet.create({
   },
 
   final: {
-    marginTop:45,
-    marginBottom:45,
+    marginTop:55,
+    marginBottom:55,
     display: "flex",
     width: "100%",
     height: "auto",
@@ -119,7 +119,7 @@ const styles = StyleSheet.create({
 bluee2: {
 
   width: "100%",
-  height: 90,
+  height: 70,
   backgroundColor: "skyblue"
 
 },
